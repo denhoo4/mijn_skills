@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0bc5286-ba47-4d0b-9193-4132e57c60c2",
+  "path": "angular-developer",
+  "path_key": "angular-developer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

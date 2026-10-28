@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6d78271-e988-4ac0-a713-30ba6228c6b1",
+  "path": "angular-new-app",
+  "path_key": "angular-new-app",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
