@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25e154b0-2d68-463a-8b5f-3a499a4a6745",
+  "path": "eui-angular",
+  "path_key": "eui-angular",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

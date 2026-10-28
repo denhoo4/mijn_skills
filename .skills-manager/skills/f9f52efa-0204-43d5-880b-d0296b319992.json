@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f9f52efa-0204-43d5-880b-d0296b319992",
+  "path": "eui-coding-rules",
+  "path_key": "eui-coding-rules",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

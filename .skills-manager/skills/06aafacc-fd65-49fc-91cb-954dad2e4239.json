@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06aafacc-fd65-49fc-91cb-954dad2e4239",
+  "path": "ffmpeg",
+  "path_key": "ffmpeg",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "digitalsamba/claude-code-video-toolkit/ffmpeg",
+    "subpath": ".claude/skills/ffmpeg",
+    "branch": null
+  }
+}

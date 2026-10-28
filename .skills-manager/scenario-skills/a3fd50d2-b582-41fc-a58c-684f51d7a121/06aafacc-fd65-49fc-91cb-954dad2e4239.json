@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "scenario_id": "a3fd50d2-b582-41fc-a58c-684f51d7a121",
+  "skill_id": "06aafacc-fd65-49fc-91cb-954dad2e4239",
+  "sort_order": 0,
+  "tools": {
+    "github_copilot": true,
+    "kiro": true
+  }
+}

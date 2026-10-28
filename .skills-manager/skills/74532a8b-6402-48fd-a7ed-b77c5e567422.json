@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74532a8b-6402-48fd-a7ed-b77c5e567422",
+  "path": "Pattern Priority Framework",
+  "path_key": "pattern priority framework",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

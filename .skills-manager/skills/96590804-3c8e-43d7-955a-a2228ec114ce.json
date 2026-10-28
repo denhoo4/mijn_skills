@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96590804-3c8e-43d7-955a-a2228ec114ce",
+  "path": "ecl-angular",
+  "path_key": "ecl-angular",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
