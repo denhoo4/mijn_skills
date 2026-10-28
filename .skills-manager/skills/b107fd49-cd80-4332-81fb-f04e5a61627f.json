@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b107fd49-cd80-4332-81fb-f04e5a61627f",
+  "path": "angular-rxjs-patterns",
+  "path_key": "angular-rxjs-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "thebushidocollective/han/angular-rxjs-patterns",
+    "subpath": "plugins/frameworks/angular/skills/angular-rxjs-patterns",
+    "branch": null
+  }
+}

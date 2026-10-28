@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aeabfcc7-96cb-4211-a99e-9dcb7f5acca8",
+  "path": "typescript-advanced-types",
+  "path_key": "typescript-advanced-types",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/typescript-advanced-types",
+    "subpath": "plugins/javascript-typescript/skills/typescript-advanced-types",
+    "branch": null
+  }
+}

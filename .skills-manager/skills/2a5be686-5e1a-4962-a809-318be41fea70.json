@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a5be686-5e1a-4962-a809-318be41fea70",
+  "path": "fastapi-async-patterns",
+  "path_key": "fastapi-async-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "thebushidocollective/han/fastapi-async-patterns",
+    "subpath": "plugins/frameworks/fastapi/skills/fastapi-async-patterns",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "badf6cf9-84d0-452d-9580-f222a76fb3c9",
+  "path": "vitest",
+  "path_key": "vitest",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/vitest",
+    "subpath": "skills/vitest",
+    "branch": null
+  }
+}

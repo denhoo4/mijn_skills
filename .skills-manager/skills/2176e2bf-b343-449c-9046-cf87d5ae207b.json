@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2176e2bf-b343-449c-9046-cf87d5ae207b",
+  "path": "fastapi",
+  "path_key": "fastapi",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "fastapi/fastapi/fastapi",
+    "subpath": "fastapi/.agents/skills/fastapi",
+    "branch": null
+  }
+}
