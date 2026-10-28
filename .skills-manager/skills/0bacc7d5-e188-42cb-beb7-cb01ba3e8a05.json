@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0bacc7d5-e188-42cb-beb7-cb01ba3e8a05",
+  "path": "postgresql-code-review",
+  "path_key": "postgresql-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/postgresql-code-review",
+    "subpath": "skills/postgresql-code-review",
+    "branch": null
+  }
+}

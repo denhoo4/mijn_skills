@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b1d6a2b2-8fe2-40fa-8001-1c84187fb99b",
+  "path": "sql-optimization",
+  "path_key": "sql-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/sql-optimization",
+    "subpath": "skills/sql-optimization",
+    "branch": null
+  }
+}

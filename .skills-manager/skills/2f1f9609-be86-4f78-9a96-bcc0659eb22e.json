@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f1f9609-be86-4f78-9a96-bcc0659eb22e",
+  "path": "postgresql-optimization",
+  "path_key": "postgresql-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/postgresql-optimization",
+    "subpath": "skills/postgresql-optimization",
+    "branch": null
+  }
+}
