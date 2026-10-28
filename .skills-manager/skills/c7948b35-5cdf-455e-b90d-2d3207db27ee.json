@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7948b35-5cdf-455e-b90d-2d3207db27ee",
+  "path": "multi-stage-dockerfile",
+  "path_key": "multi-stage-dockerfile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/multi-stage-dockerfile",
+    "subpath": "skills/multi-stage-dockerfile",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b13b9be-56f3-4490-8c3b-379aacce57ef",
+  "path": "azure-prepare",
+  "path_key": "azure-prepare",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "microsoft/azure-skills/azure-prepare",
+    "subpath": "skills/azure-prepare",
+    "branch": null
+  }
+}
