@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e614561d-524f-414a-88f0-99c9600d1574",
+  "path": "angular-di",
+  "path_key": "angular-di",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "analogjs/angular-skills/angular-di",
+    "subpath": "skills/angular-di",
+    "branch": null
+  }
+}

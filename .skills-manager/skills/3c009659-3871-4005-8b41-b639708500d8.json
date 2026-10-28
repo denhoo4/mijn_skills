@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3c009659-3871-4005-8b41-b639708500d8",
+  "path": "angular-ssr",
+  "path_key": "angular-ssr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "analogjs/angular-skills/angular-ssr",
+    "subpath": "skills/angular-ssr",
+    "branch": null
+  }
+}

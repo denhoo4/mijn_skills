@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b3f75e9-c533-49a0-8851-26022cff953b",
+  "path": "angular-routing",
+  "path_key": "angular-routing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "analogjs/angular-skills/angular-routing",
+    "subpath": "skills/angular-routing",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b8f23e3-aa27-4fa3-baae-16855f160593",
+  "path": "angular-http",
+  "path_key": "angular-http",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "analogjs/angular-skills/angular-http",
+    "subpath": "skills/angular-http",
+    "branch": null
+  }
+}

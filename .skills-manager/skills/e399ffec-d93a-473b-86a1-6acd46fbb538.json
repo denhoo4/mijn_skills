@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e399ffec-d93a-473b-86a1-6acd46fbb538",
+  "path": "angular-tooling",
+  "path_key": "angular-tooling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "analogjs/angular-skills/angular-tooling",
+    "subpath": "skills/angular-tooling",
+    "branch": null
+  }
+}
